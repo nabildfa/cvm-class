@@ -15,20 +15,20 @@
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
+  color: black;
+  background: white;
   font-family: Arial, Helvetica, sans-serif;
 }
 .slick-track {
   display: flex !important;
-  justify-content: flex-end; 
+  justify-content: flex-end;
 }
 
-.slick-arrow .slick-prev{
+.slick-arrow .slick-prev {
   z-index: 2;
   left: 0 !important;
 }
-.slick-arrow .slick-next{
+.slick-arrow .slick-next {
   z-index: 2;
-  right: 0; 
+  right: 0;
 }
