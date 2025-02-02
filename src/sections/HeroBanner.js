@@ -26,7 +26,7 @@ function HeroBanner() {
               onClick={() => alert("click daftar sekaranng")}
               className="px-[18px] py-[10px] rounded-full text-black font-medium cursor-pointer bg-lightgray ml-[16px]"
             >
-              About Us Mine
+              About Us
             </button>
           </div>
         </div>
